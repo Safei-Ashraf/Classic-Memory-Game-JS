@@ -1,5 +1,5 @@
 # Classic-Memory-Game-JS
-
+⦾Tech/Tools: HTML, CSS, Bootstrap, Javascript
 ⦿Game Logic:
 
 ⚪To Start the Game you need to press "Start Game" Button at first (otherwise you will get alerted);
