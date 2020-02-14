@@ -10,4 +10,4 @@
 
 ⚪Once you are done matching all images, you will receive a success message with your time in an "alert box"
 
-⚫ Link: https://safei-ashraf.github.io/Classic-Memory-Game-JS/index.html
+⚫ [PLAY NOW!](https://safei-ashraf.github.io/Classic-Memory-Game-JS/index.html)
